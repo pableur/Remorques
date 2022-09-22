@@ -39,5 +39,5 @@ function addVehicule(name, ptac, permis, load) {
 	
     myTable.appendChild(newRow);
 
-	document.body.insertBefore(newRow)
+	document.myTable.insertBefore(newRow)
 }
